@@ -1,0 +1,70 @@
+    1  cd ..
+    2  ~
+    3  cd ~
+    4  mkdir examen372
+    5  cd examen372/
+    6  touch create.sh
+    7  echo '#! /bin/bash' > create.sh 
+    8  start create.sh 
+    9  ls
+   10  ./create.sh 
+   11  ./create.sh 
+   12  rm -rf webapp/
+   13  ./create.sh 
+   14  ./create.sh 
+   15  ./create.sh 
+   16  ./create.sh 
+   17  ./create.sh 
+   18  ./create.sh 
+   19  ./create.sh 
+   20  ./create.sh 
+   21  ./create.sh 
+   22  cmd //c tree //F ./
+   23  ./create.sh 
+   24  ./create.sh 
+   25  ./create.sh 
+   26  ./create.sh 
+   27  ./create.sh 
+   28  ./create.sh 
+   29  cmd //c tree //F ./
+   30  ./create.sh 
+   31  ./create.sh 
+   32  ./create.sh 
+   33  ./create.sh 
+   34  ./create.sh 
+   35  ./create.sh 
+   36  ./create.sh 
+   37  ./create.sh 
+   38  ./create.sh 
+   39  ./create.sh 
+   40  ./create.sh 
+   41  ./create.sh 
+   42  ./create.sh 
+   43  ./create.sh 
+   44  ./create.sh 
+   45  ./create.sh 
+   46  ./create.sh 
+   47  ./create.sh 
+   48  ./create.sh 
+   49  ./create.sh 
+   50  ./create.sh 
+   51  ./create.sh 
+   52  ./create.sh 
+   53  ./create.sh 
+   54  ./create.sh 
+   55  ./create.sh 
+   56  ./create.sh 
+   57  cmd //c tree //F ./
+   58  cd..
+   59  cd ..
+   60  cd examen372/
+   61  mv examen372.md README.md
+   62  mv examen372.md examen372/README.md
+   63  cd ..
+   64  cd Desktop/
+   65  ls
+   66  cd instrucciones/
+   67  mv examen372.md README.md
+   68  mv README.md examen372/
+   69  mv README.md ~/Desktop/examen372/
+   70  history > history.txt
